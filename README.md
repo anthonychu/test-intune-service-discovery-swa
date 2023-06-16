@@ -1,1 +1,0 @@
-# test-intune-service-discovery-swa
